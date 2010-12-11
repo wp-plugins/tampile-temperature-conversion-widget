@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: Lucian Apostol
-Donate link: http://www.tampile.com
+Donate link: http://www.flamescorpion.com
 Tags: widget, temperature conversion, fahrenheit, celsius, rankin, kelvin, temperature converter, temperature calculator
 Requires at least: 2.0.2
 Tested up to: 2.8.6

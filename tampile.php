@@ -82,6 +82,7 @@ function tampile()
 			<option value="4">Rankin</option>
 		</select>
 		<input type="submit" name="submit" id="submit" value="Convert" />
+		<br><a href="http://www.tampile.com">Tampile temperature converter</a>
 	</form>
 
   <?
