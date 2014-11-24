@@ -3,15 +3,15 @@ Contributors: Lucian Apostol
 Donate link: http://www.flamescorpion.com
 Tags: widget, temperature conversion, fahrenheit, celsius, rankin, kelvin, temperature converter, temperature calculator
 Requires at least: 2.0.2
-Tested up to: 2.8.6
-Stable tag: 1.0
+Tested up to: 4.0.1
+Stable tag: 1.1
 
 Easy widget for wordpress to provide your users the facility to convert temperature: fahrenheit, celsius, kelvin, rankine.
 
 == Description ==
 
 Tampile temperature converter is a plugin designed to provide your visitors with an wasy conversion tool for temperature:
-fahrenheit, celsius rankin and kelevin. It is working as a widget so you don't need to make any changes to your theme files.
+fahrenheit, celsius rankin and kelvin. It is working as a widget so you don't need to make any changes to your theme files.
 It can be very simple installed from sidebar customization in your blog admin panel.
 
 It is javascript based, so it will never refresh the page to show up results, and won't redirect your visitors if they use it.
@@ -45,6 +45,9 @@ You blog functionality and design will not be affected. When your visitors use t
 1. Tampile temperature converter
 
 == Changelog ==
+
+= 1.1 =
+* Checked and tested for wordpress 4.0
 
 = 1.0 =
 * This is the first version of the plugin
