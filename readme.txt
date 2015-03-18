@@ -3,8 +3,8 @@ Contributors: Lucian Apostol
 Donate link: http://www.flamescorpion.com
 Tags: widget, temperature conversion, fahrenheit, celsius, rankin, kelvin, temperature converter, temperature calculator
 Requires at least: 2.0.2
-Tested up to: 4.0.1
-Stable tag: 1.1
+Tested up to: 4.1.1
+Stable tag: 1.2
 
 Easy widget for wordpress to provide your users the facility to convert temperature: fahrenheit, celsius, kelvin, rankine.
 
@@ -45,6 +45,10 @@ You blog functionality and design will not be affected. When your visitors use t
 1. Tampile temperature converter
 
 == Changelog ==
+
+= 1.2 =
+* Tested for Wordpress 4.1.1
+* Changed the name of the widget
 
 = 1.1 =
 * Checked and tested for wordpress 4.0
