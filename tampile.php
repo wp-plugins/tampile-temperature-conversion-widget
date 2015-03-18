@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Tampile temperature converter
-Plugin URI: http://www.tampile.com
+Plugin URI: http://www.flamescorpion.com
 Description: Convert any temperature: fahrenheit, celsius, kelvin and rankin.
 Author: Lucian Apostol
-Version: 1
-Author URI: http://www.tampile.com
+Version: 1.2
+Author URI: http://www.flamescorpion.com
 */
 
 
@@ -98,7 +98,7 @@ function widgetTampile($args) {
 
 function tampileInit()
 {
-  register_sidebar_widget(__('Tampile'), 'widgetTampile');     
+  register_sidebar_widget(__('Tampile Temperature Converter'), 'widgetTampile');     
 }
 add_action("plugins_loaded", "tampileInit");
 ?>
